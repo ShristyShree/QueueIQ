@@ -1,11 +1,11 @@
-# QueueIQ v3 — Hospital Queue Intelligence System
+# QueueIQ  — Hospital Queue Intelligence System
 
 > Real-time, doctor-aware wait time prediction for hospital queues.
 > Stack: **Flask · PostgreSQL · scikit-learn · React · Vite**
 
 ---
 
-## What's New in v3
+## What's New 
 
 - ✅ **Smart search** — instant autocomplete with scored ranking (text × 0.6 + distance × 0.3 + rating × 0.1)
 - ✅ **Doctor system** — select a doctor, get adjusted predictions based on their popularity and consultation time
